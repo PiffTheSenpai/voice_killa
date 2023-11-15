@@ -1,0 +1,5 @@
+# ignore all
+/*
+# except
+!.gitignore
+!1.ipynb
